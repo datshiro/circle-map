@@ -1,0 +1,14 @@
+{
+  "name": "circle-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@datshiro.github.com:datshiro/circle-map.git",
+  "author": "Dat Shiro <datshiro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
